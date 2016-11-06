@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  UI-Base-UILabel
-//
-//  Created by 王昱斌 on 16/10/28.
-//  Copyright © 2016年 bingo. All rights reserved.
-//
 
 import UIKit
 

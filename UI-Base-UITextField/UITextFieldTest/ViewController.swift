@@ -1,10 +1,4 @@
-//
-//  ViewController.swift
-//  UITextFieldTest
-//
-//  Created by lmy on 15/12/28.
-//  Copyright © 2015年 http://www.bjwxhl.com. All rights reserved.
-//
+
 
 import UIKit
 

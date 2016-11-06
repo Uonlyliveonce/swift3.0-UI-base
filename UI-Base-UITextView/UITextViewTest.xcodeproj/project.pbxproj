@@ -7,25 +7,25 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		EAC3E2991C317EF100016167 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAC3E2981C317EF100016167 /* AppDelegate.swift */; };
-		EAC3E29B1C317EF100016167 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAC3E29A1C317EF100016167 /* ViewController.swift */; };
-		EAC3E29E1C317EF100016167 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EAC3E29C1C317EF100016167 /* Main.storyboard */; };
-		EAC3E2A01C317EF100016167 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EAC3E29F1C317EF100016167 /* Assets.xcassets */; };
-		EAC3E2A31C317EF100016167 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EAC3E2A11C317EF100016167 /* LaunchScreen.storyboard */; };
+		EAC3E31F1C3234E300016167 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAC3E31E1C3234E300016167 /* AppDelegate.swift */; };
+		EAC3E3211C3234E300016167 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAC3E3201C3234E300016167 /* ViewController.swift */; };
+		EAC3E3241C3234E300016167 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EAC3E3221C3234E300016167 /* Main.storyboard */; };
+		EAC3E3261C3234E300016167 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EAC3E3251C3234E300016167 /* Assets.xcassets */; };
+		EAC3E3291C3234E300016167 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EAC3E3271C3234E300016167 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		EAC3E2951C317EF100016167 /* UITextFieldTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UITextFieldTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		EAC3E2981C317EF100016167 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		EAC3E29A1C317EF100016167 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		EAC3E29D1C317EF100016167 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		EAC3E29F1C317EF100016167 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		EAC3E2A21C317EF100016167 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		EAC3E2A41C317EF100016167 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EAC3E31B1C3234E300016167 /* UITextViewTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UITextViewTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EAC3E31E1C3234E300016167 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		EAC3E3201C3234E300016167 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		EAC3E3231C3234E300016167 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		EAC3E3251C3234E300016167 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		EAC3E3281C3234E300016167 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		EAC3E32A1C3234E300016167 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		EAC3E2921C317EF100016167 /* Frameworks */ = {
+		EAC3E3181C3234E300016167 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -35,72 +35,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		EAC3E28C1C317EF100016167 = {
+		EAC3E3121C3234E300016167 = {
 			isa = PBXGroup;
 			children = (
-				EAC3E2971C317EF100016167 /* UITextFieldTest */,
-				EAC3E2961C317EF100016167 /* Products */,
+				EAC3E31D1C3234E300016167 /* UITextViewTest */,
+				EAC3E31C1C3234E300016167 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		EAC3E2961C317EF100016167 /* Products */ = {
+		EAC3E31C1C3234E300016167 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EAC3E2951C317EF100016167 /* UITextFieldTest.app */,
+				EAC3E31B1C3234E300016167 /* UITextViewTest.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		EAC3E2971C317EF100016167 /* UITextFieldTest */ = {
+		EAC3E31D1C3234E300016167 /* UITextViewTest */ = {
 			isa = PBXGroup;
 			children = (
-				EAC3E2981C317EF100016167 /* AppDelegate.swift */,
-				EAC3E29A1C317EF100016167 /* ViewController.swift */,
-				EAC3E29C1C317EF100016167 /* Main.storyboard */,
-				EAC3E29F1C317EF100016167 /* Assets.xcassets */,
-				EAC3E2A11C317EF100016167 /* LaunchScreen.storyboard */,
-				EAC3E2A41C317EF100016167 /* Info.plist */,
+				EAC3E31E1C3234E300016167 /* AppDelegate.swift */,
+				EAC3E3201C3234E300016167 /* ViewController.swift */,
+				EAC3E3221C3234E300016167 /* Main.storyboard */,
+				EAC3E3251C3234E300016167 /* Assets.xcassets */,
+				EAC3E3271C3234E300016167 /* LaunchScreen.storyboard */,
+				EAC3E32A1C3234E300016167 /* Info.plist */,
 			);
-			path = UITextFieldTest;
+			path = UITextViewTest;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EAC3E2941C317EF100016167 /* UITextFieldTest */ = {
+		EAC3E31A1C3234E300016167 /* UITextViewTest */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EAC3E2A71C317EF100016167 /* Build configuration list for PBXNativeTarget "UITextFieldTest" */;
+			buildConfigurationList = EAC3E32D1C3234E300016167 /* Build configuration list for PBXNativeTarget "UITextViewTest" */;
 			buildPhases = (
-				EAC3E2911C317EF100016167 /* Sources */,
-				EAC3E2921C317EF100016167 /* Frameworks */,
-				EAC3E2931C317EF100016167 /* Resources */,
+				EAC3E3171C3234E300016167 /* Sources */,
+				EAC3E3181C3234E300016167 /* Frameworks */,
+				EAC3E3191C3234E300016167 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = UITextFieldTest;
-			productName = UITextFieldTest;
-			productReference = EAC3E2951C317EF100016167 /* UITextFieldTest.app */;
+			name = UITextViewTest;
+			productName = UITextViewTest;
+			productReference = EAC3E31B1C3234E300016167 /* UITextViewTest.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		EAC3E28D1C317EF100016167 /* Project object */ = {
+		EAC3E3131C3234E300016167 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0710;
 				ORGANIZATIONNAME = "http://www.bjwxhl.com";
 				TargetAttributes = {
-					EAC3E2941C317EF100016167 = {
+					EAC3E31A1C3234E300016167 = {
 						CreatedOnToolsVersion = 7.1;
-						LastSwiftMigration = 0800;
+						LastSwiftMigration = 0810;
 					};
 				};
 			};
-			buildConfigurationList = EAC3E2901C317EF100016167 /* Build configuration list for PBXProject "UITextFieldTest" */;
+			buildConfigurationList = EAC3E3161C3234E300016167 /* Build configuration list for PBXProject "UITextViewTest" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -108,54 +108,54 @@
 				en,
 				Base,
 			);
-			mainGroup = EAC3E28C1C317EF100016167;
-			productRefGroup = EAC3E2961C317EF100016167 /* Products */;
+			mainGroup = EAC3E3121C3234E300016167;
+			productRefGroup = EAC3E31C1C3234E300016167 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EAC3E2941C317EF100016167 /* UITextFieldTest */,
+				EAC3E31A1C3234E300016167 /* UITextViewTest */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		EAC3E2931C317EF100016167 /* Resources */ = {
+		EAC3E3191C3234E300016167 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EAC3E2A31C317EF100016167 /* LaunchScreen.storyboard in Resources */,
-				EAC3E2A01C317EF100016167 /* Assets.xcassets in Resources */,
-				EAC3E29E1C317EF100016167 /* Main.storyboard in Resources */,
+				EAC3E3291C3234E300016167 /* LaunchScreen.storyboard in Resources */,
+				EAC3E3261C3234E300016167 /* Assets.xcassets in Resources */,
+				EAC3E3241C3234E300016167 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		EAC3E2911C317EF100016167 /* Sources */ = {
+		EAC3E3171C3234E300016167 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EAC3E29B1C317EF100016167 /* ViewController.swift in Sources */,
-				EAC3E2991C317EF100016167 /* AppDelegate.swift in Sources */,
+				EAC3E3211C3234E300016167 /* ViewController.swift in Sources */,
+				EAC3E31F1C3234E300016167 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		EAC3E29C1C317EF100016167 /* Main.storyboard */ = {
+		EAC3E3221C3234E300016167 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				EAC3E29D1C317EF100016167 /* Base */,
+				EAC3E3231C3234E300016167 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		EAC3E2A11C317EF100016167 /* LaunchScreen.storyboard */ = {
+		EAC3E3271C3234E300016167 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				EAC3E2A21C317EF100016167 /* Base */,
+				EAC3E3281C3234E300016167 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -163,7 +163,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		EAC3E2A51C317EF100016167 /* Debug */ = {
+		EAC3E32B1C3234E300016167 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -207,7 +207,7 @@
 			};
 			name = Debug;
 		};
-		EAC3E2A61C317EF100016167 /* Release */ = {
+		EAC3E32C1C3234E300016167 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -244,25 +244,25 @@
 			};
 			name = Release;
 		};
-		EAC3E2A81C317EF100016167 /* Debug */ = {
+		EAC3E32E1C3234E300016167 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = UITextFieldTest/Info.plist;
+				INFOPLIST_FILE = UITextViewTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Lher.UITextFieldTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Lher.UITextViewTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
-		EAC3E2A91C317EF100016167 /* Release */ = {
+		EAC3E32F1C3234E300016167 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = UITextFieldTest/Info.plist;
+				INFOPLIST_FILE = UITextViewTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.Lher.UITextFieldTest;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Lher.UITextViewTest;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -271,25 +271,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EAC3E2901C317EF100016167 /* Build configuration list for PBXProject "UITextFieldTest" */ = {
+		EAC3E3161C3234E300016167 /* Build configuration list for PBXProject "UITextViewTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				EAC3E2A51C317EF100016167 /* Debug */,
-				EAC3E2A61C317EF100016167 /* Release */,
+				EAC3E32B1C3234E300016167 /* Debug */,
+				EAC3E32C1C3234E300016167 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EAC3E2A71C317EF100016167 /* Build configuration list for PBXNativeTarget "UITextFieldTest" */ = {
+		EAC3E32D1C3234E300016167 /* Build configuration list for PBXNativeTarget "UITextViewTest" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				EAC3E2A81C317EF100016167 /* Debug */,
-				EAC3E2A91C317EF100016167 /* Release */,
+				EAC3E32E1C3234E300016167 /* Debug */,
+				EAC3E32F1C3234E300016167 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = EAC3E28D1C317EF100016167 /* Project object */;
+	rootObject = EAC3E3131C3234E300016167 /* Project object */;
 }
