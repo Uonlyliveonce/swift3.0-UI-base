@@ -121,7 +121,7 @@ class ViewController: UIViewController {
         
         
         //事件
-        button.addTarget(self, action: #selector(ViewController.buttonUpInsideFunc), for: .touchUpInside)
+        button.addTarget(self, action: #selector(ViewController.buttonUpInsideFunc(button:)), for: .touchUpInside)
         
         
         
@@ -136,7 +136,7 @@ class ViewController: UIViewController {
     
     
     //按钮事件
-    func buttonUpInsideFunc()
+    func buttonUpInsideFunc(button : UIButton)
     {
         print("--- 在控件之内触摸并抬起事件 ---")
         
